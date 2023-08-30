@@ -36,5 +36,5 @@ Uma página de Login com opção de tema claro e escuro. Com um simples clique �
 
 ## Licença
 
-- Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
+- Este projeto está licenciado sob a Licença MIT.
 - Myush 2023.
