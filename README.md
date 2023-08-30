@@ -7,7 +7,6 @@ Uma Página de Login Dark e White, simples e responsiva.
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
 - [Requisitos do Sistema](#requisitos-do-sistema)
-- [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
@@ -30,3 +29,12 @@ Uma página de Login com opção de tema claro e escuro. Com um simples clique �
 
 - Clonar o repositório.
 - Adicionar o código em seus projetos.
+
+## Contribuição
+
+- Douglas Novais "Mysuh".
+
+## Licença
+
+- Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
+- Myush 2023.
